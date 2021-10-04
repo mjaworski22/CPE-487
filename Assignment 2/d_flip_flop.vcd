@@ -1,0 +1,36 @@
+$date
+  Mon Oct 04 18:09:40 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module d_flip_flop_test_bench $end
+$var reg 1 ! d $end
+$var reg 1 " q $end
+$var reg 1 # clock $end
+$scope module uut $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+U"
+0#
+#100000000
+1!
+1#
+#300000000
+0!
+0#
+#400000000
+1#
+#600000000
+1!
+#1000000000
