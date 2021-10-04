@@ -4,4 +4,4 @@ This is my repo for all work I do in CPE 487
 
 ## Assignment 2
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mjaworski22/CPE-487/blob/main/Assignment%202/gtkwave_screenshot.PNG)
