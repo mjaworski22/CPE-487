@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Nov  9 13:11:17 2021
+# Process ID: 9696
+# Current directory: C:/Users/Matthew Jaworski/Documents/CPE 487 Labs/FinalProject/Final_Project/Final_Project.runs/synth_1
+# Command line: vivado.exe -log read_image_VHDL.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source read_image_VHDL.tcl
+# Log file: C:/Users/Matthew Jaworski/Documents/CPE 487 Labs/FinalProject/Final_Project/Final_Project.runs/synth_1/read_image_VHDL.vds
+# Journal file: C:/Users/Matthew Jaworski/Documents/CPE 487 Labs/FinalProject/Final_Project/Final_Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source read_image_VHDL.tcl -notrace
